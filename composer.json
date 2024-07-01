@@ -1,0 +1,22 @@
+{
+    "name": "gremo/symfony-qa-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "description": "A Symfony QA (Quality Assurance) tools pack",
+    "require": {
+        "phpstan/extension-installer": "*",
+        "phpstan/phpstan-deprecation-rules": "*",
+        "phpstan/phpstan-doctrine": "*",
+        "phpstan/phpstan-symfony": "*",
+        "phpstan/phpstan": "*",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "require-dev": {
+        "phpstan/extension-installer": "*",
+        "phpstan/phpstan-deprecation-rules": "*",
+        "phpstan/phpstan-doctrine": "*",
+        "phpstan/phpstan-symfony": "*",
+        "phpstan/phpstan": "*",
+        "squizlabs/php_codesniffer": "*"
+    }
+}
